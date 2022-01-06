@@ -60,7 +60,7 @@ span{
 }
 
 .mission{
-    margin-right: 5%;
+    margin-right: 3%;
     border-radius: 20px;
     padding: 10px;
     align-items: left;
@@ -68,14 +68,14 @@ span{
     margin-left: 100px;
 }
 .vission{
-    margin-right: 5%;
+    margin-right: 3%;
     border-radius: 20px;
     padding: 10px;
     align-items: left;
     background-color: #EBDEF0;
 }
 .goal{
-    margin-right: 5%;
+    margin-right: 3%;
     border-radius: 20px;
     padding: 10px;
     align-items: left;
