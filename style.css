@@ -1,0 +1,100 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+section{
+    display: flex;
+    margin-bottom: 100px;
+    align-items: center;
+}
+.heading{
+    border-left: 2px solid darkgoldenrod;
+    padding-left: 5px;
+    font-family: 'Stardos Stencil', cursive;
+    font-size: 30px;
+    margin-block-start: 10px;
+    margin-block-end: 10px;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+span{
+    color: teal;
+}
+.half-width{
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    float: left;
+    display: block;
+}
+.half-width img{
+    width: 85%;
+}
+.half-width h1{
+    font-size: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: left;
+}
+.half-width p{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+#btn{
+    padding: 8px 20px;
+    background-color: blue;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-block-start: 30px;
+    margin-block-end: 30px;
+}
+.first-bg{
+    background-image: url(images/shapes/shape-1.png) no-repeat;
+}
+
+.mission{
+    margin-right: 5%;
+    border-radius: 20px;
+    padding: 10px;
+    align-items: left;
+    background-color: #A2D9CE;
+    margin-left: 100px;
+}
+.vission{
+    margin-right: 5%;
+    border-radius: 20px;
+    padding: 10px;
+    align-items: left;
+    background-color: #EBDEF0;
+}
+.goal{
+    margin-right: 5%;
+    border-radius: 20px;
+    padding: 10px;
+    align-items: left;
+    background-color: #F2D7D5;
+}
+.mission img{
+    height: 100px;
+    width: 100px;
+} 
+.vission img{
+    height: 100px;
+    width: 100px;
+} 
+.goal img{
+    height: 100px;
+    width: 100px;
+}
+footer{
+    text-align: center;
+    background-color: navy;
+    color: #fff;
+    padding: 2px;
+}
